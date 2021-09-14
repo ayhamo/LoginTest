@@ -1,0 +1,8 @@
+<resources>
+    <string name="open" translatable="false" />
+    <string name="close" translatable="false" />
+    <string name="uplode" translatable="false" />
+
+    <string name="app_name">English here</string>
+    <string name="thank_you">Thank You</string>
+</resources>
